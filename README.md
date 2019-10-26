@@ -17,5 +17,5 @@ Base
 
 Animation
 ==
-* 卡片动画 [CardsAnimationDemo](https://github.com/adow/CardsAnimationDemo)，基于UICollectionView，Swift实现。
+* 卡片动画 [CardsAnimationDemo](https://github.com/adow/CardsAnimationDemo)，基于UICollectionView。
 
