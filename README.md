@@ -7,7 +7,8 @@ Blog
 * [Swift 编程语言](https://www.cnswift.org/)
 * [Swift 中文教程](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)
 * 常用库
-   * Swift: [awesome-swift](https://github.com/matteocrippa/awesome-swift)
+   * [awesome-swift](https://github.com/matteocrippa/awesome-swift)
+   * [Swift 开源项目精选](https://github.com/ipader/SwiftGuide/blob/master/Featured.md)
 
 Base
 ==
