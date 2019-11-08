@@ -18,6 +18,12 @@ Base
 * 网络请求 [Moya](https://github.com/Moya/Moya)
 * 异步编程 [PromiseKit](https://github.com/mxcl/PromiseKit)
 
+UI
+==
+
+* 下拉刷新 [TSRefresh](https://github.com/Tovema-Swift/TSRefresh)
+* [FSPagerView](https://github.com/WenchaoD/FSPagerView)
+
 Animation
 ==
 * 卡片动画 [CardsAnimationDemo](https://github.com/adow/CardsAnimationDemo)，基于UICollectionView。
