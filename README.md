@@ -16,6 +16,7 @@ Base
 * 操作 NSLayoutConstraints [SnapKit](https://github.com/SnapKit/SnapKit)
 * 图片缓存 [Kingfisher](https://github.com/onevcat/Kingfisher)
 * 网络请求 [Moya](https://github.com/Moya/Moya)
+* 网络监听 [Reachability](https://github.com/ashleymills/Reachability.swift)
 * 异步编程 [PromiseKit](https://github.com/mxcl/PromiseKit)
 
 UI
@@ -28,3 +29,15 @@ Animation
 ==
 * 卡片动画 [CardsAnimationDemo](https://github.com/adow/CardsAnimationDemo)，基于UICollectionView。
 * [Lottie](https://github.com/airbnb/lottie-ios) 跨平台动画库
+
+Data
+==
+* 模型转换 [HandyJSON](https://github.com/alibaba/HandyJSON)
+* 模型缓存 [Cache](https://github.com/hyperoslo/Cache)
+* 数据加密 [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift)
+* 数据库 [GRDB](https://github.com/groue/GRDB.swift)
+* [Keychain](https://github.com/evgenyneu/keychain-swift)
+
+Other
+==
+* 调试工具哆啦A梦 [DoraemonKit](https://github.com/didi/DoraemonKit)
