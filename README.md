@@ -27,4 +27,4 @@ UI
 Animation
 ==
 * 卡片动画 [CardsAnimationDemo](https://github.com/adow/CardsAnimationDemo)，基于UICollectionView。
-
+* [Lottie](https://github.com/airbnb/lottie-ios) 跨平台动画库
