@@ -18,6 +18,7 @@ Base
 * 网络请求 [Moya](https://github.com/Moya/Moya)
 * 网络监听 [Reachability](https://github.com/ashleymills/Reachability.swift)
 * 异步编程 [PromiseKit](https://github.com/mxcl/PromiseKit)
+* 依赖注入 [Swinject](https://github.com/Swinject/Swinject)
 
 UI
 ==
